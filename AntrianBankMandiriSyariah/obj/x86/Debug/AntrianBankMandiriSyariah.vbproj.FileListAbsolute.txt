@@ -1,0 +1,21 @@
+C:\Users\acer\AppData\Local\Temporary Projects\AntrianBankMandiriSyariah\bin\Debug\AntrianBankMandiriSyariah.exe
+C:\Users\acer\AppData\Local\Temporary Projects\AntrianBankMandiriSyariah\bin\Debug\AntrianBankMandiriSyariah.pdb
+C:\Users\acer\AppData\Local\Temporary Projects\AntrianBankMandiriSyariah\bin\Debug\AntrianBankMandiriSyariah.xml
+C:\Users\acer\AppData\Local\Temporary Projects\AntrianBankMandiriSyariah\obj\x86\Debug\AntrianBankMandiriSyariah.Form1.resources
+C:\Users\acer\AppData\Local\Temporary Projects\AntrianBankMandiriSyariah\obj\x86\Debug\AntrianBankMandiriSyariah.Resources.resources
+C:\Users\acer\AppData\Local\Temporary Projects\AntrianBankMandiriSyariah\obj\x86\Debug\AntrianBankMandiriSyariah.vbproj.GenerateResource.Cache
+C:\Users\acer\AppData\Local\Temporary Projects\AntrianBankMandiriSyariah\obj\x86\Debug\AntrianBankMandiriSyariah.exe
+C:\Users\acer\AppData\Local\Temporary Projects\AntrianBankMandiriSyariah\obj\x86\Debug\AntrianBankMandiriSyariah.xml
+C:\Users\acer\AppData\Local\Temporary Projects\AntrianBankMandiriSyariah\obj\x86\Debug\AntrianBankMandiriSyariah.pdb
+C:\Users\acer\AppData\Local\Temporary Projects\AntrianBankMandiriSyariah\bin\Debug\AntrianBankMandiriSyariah.exe.config
+C:\Users\acer\documents\visual studio 2010\Projects\AntrianBankMandiriSyariah\AntrianBankMandiriSyariah\obj\x86\Debug\AntrianBankMandiriSyariah.Form1.resources
+C:\Users\acer\documents\visual studio 2010\Projects\AntrianBankMandiriSyariah\AntrianBankMandiriSyariah\obj\x86\Debug\AntrianBankMandiriSyariah.Resources.resources
+C:\Users\acer\documents\visual studio 2010\Projects\AntrianBankMandiriSyariah\AntrianBankMandiriSyariah\obj\x86\Debug\AntrianBankMandiriSyariah.vbproj.GenerateResource.Cache
+C:\Users\acer\documents\visual studio 2010\Projects\AntrianBankMandiriSyariah\AntrianBankMandiriSyariah\bin\Debug\Antrian.exe.config
+C:\Users\acer\documents\visual studio 2010\Projects\AntrianBankMandiriSyariah\AntrianBankMandiriSyariah\bin\Debug\Antrian.exe
+C:\Users\acer\documents\visual studio 2010\Projects\AntrianBankMandiriSyariah\AntrianBankMandiriSyariah\bin\Debug\Antrian.pdb
+C:\Users\acer\documents\visual studio 2010\Projects\AntrianBankMandiriSyariah\AntrianBankMandiriSyariah\bin\Debug\Antrian.xml
+C:\Users\acer\documents\visual studio 2010\Projects\AntrianBankMandiriSyariah\AntrianBankMandiriSyariah\obj\x86\Debug\Antrian.exe
+C:\Users\acer\documents\visual studio 2010\Projects\AntrianBankMandiriSyariah\AntrianBankMandiriSyariah\obj\x86\Debug\Antrian.xml
+C:\Users\acer\documents\visual studio 2010\Projects\AntrianBankMandiriSyariah\AntrianBankMandiriSyariah\obj\x86\Debug\Antrian.pdb
+C:\Users\acer\documents\visual studio 2010\Projects\AntrianBankMandiriSyariah\AntrianBankMandiriSyariah\obj\x86\Debug\AntrianBankMandiriSyariah.Form2.resources
